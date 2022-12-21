@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>validate_login</name>
+   <tag></tag>
+   <elementGuidId>8e583250-5696-448a-911a-08c64680c859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div/div/div/div[2]/div/h2
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div/div/div/div[2]/div/h2
+</value>
+      <webElementGuid>ee6713e1-beba-47bd-a326-4af9db673bbe</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

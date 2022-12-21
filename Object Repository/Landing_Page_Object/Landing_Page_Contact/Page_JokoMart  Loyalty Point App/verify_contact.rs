@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_contact</name>
+   <tag></tag>
+   <elementGuidId>8401ce51-7116-4eea-9ec4-3d6e8efb2d9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-xl.fonat-semibold.mb-3.font-semibold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>184d184a-6443-4214-8056-f0e75c93a07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl fonat-semibold  mb-3 font-semibold</value>
+      <webElementGuid>a8a6db32-b6d4-499a-8652-01058cca8126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>1dca0ff3-cab8-410e-b19d-9ecd7cfc8e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;mx-auto px-4&quot;]/div[@class=&quot;flex flex-wrap text-left lg:text-left justify-between pl-8&quot;]/div[@class=&quot;lg:w-4/12&quot;]/p[@class=&quot;text-xl fonat-semibold  mb-3 font-semibold&quot;]</value>
+      <webElementGuid>6187a452-e93f-476f-8734-1e8645fbf32e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/div/div/p</value>
+      <webElementGuid>5051496a-ab27-4d1b-877c-abd1521d87e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Director, Next Big Thing'])[1]/following::p[2]</value>
+      <webElementGuid>d3a357a4-e059-43a0-a9d7-95dfc6632f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Page'])[1]/preceding::p[2]</value>
+      <webElementGuid>1f55f31d-4717-4d5e-ae9c-23b24c606d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::p[3]</value>
+      <webElementGuid>0932d37d-cc5f-4d20-8f09-1abb2ce792be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>ffc76211-bff1-4247-b482-81606ed03277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/p</value>
+      <webElementGuid>0cf3d1bf-0275-4399-8a36-3752acd8e29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>2a5ea1b9-6e7b-473b-9735-180bba9b4644</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

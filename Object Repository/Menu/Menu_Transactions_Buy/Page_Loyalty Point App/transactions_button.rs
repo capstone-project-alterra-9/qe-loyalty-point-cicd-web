@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>transactions_button</name>
+   <tag></tag>
+   <elementGuidId>54e202f5-cba9-46f6-a151-5dfbc6d44e55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b84e3fd4-975f-47d6-8ec7-f5983a9993a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex rounded-xl mx-4 cursor-pointer text-white hover:bg-white hover:text-[#566B55] text-sm items-center gap-x-4 px-10
+               </value>
+      <webElementGuid>3065d780-d639-4394-82b1-7b11da5084ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transactions</value>
+      <webElementGuid>ac15721d-fba0-4a87-8ee9-ee7d465cf7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex row&quot;]/div[@class=&quot;w-1/5 duration-200 bg-[#566B55] relative shadow-lg&quot;]/ul[@class=&quot;pt-5 pb-24&quot;]/li[@class=&quot;flex rounded-xl mx-4 cursor-pointer text-white hover:bg-white hover:text-[#566B55] text-sm items-center gap-x-4 px-10&quot;]</value>
+      <webElementGuid>3d3e8e4a-78fd-4f09-bc95-b9c6facbe73f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/ul/li</value>
+      <webElementGuid>29e86f2d-040c-4932-b326-f5d3623ed66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::li[1]</value>
+      <webElementGuid>2ae065e4-7aae-4709-982c-1f79367df42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::li[2]</value>
+      <webElementGuid>5a82aa1e-6b59-491c-8756-694df466c21f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[1]/preceding::li[1]</value>
+      <webElementGuid>b1deaa24-85d6-47ad-b99c-d05cbd3888c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li</value>
+      <webElementGuid>34ae8f61-8072-4394-bde4-7731cbae40fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Transactions' or . = 'Transactions')]</value>
+      <webElementGuid>3d77fa96-348c-455c-8d44-ae4bc1dc659b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

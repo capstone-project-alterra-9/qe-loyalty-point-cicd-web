@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_testimonial</name>
+   <tag></tag>
+   <elementGuidId>4bee40ec-ab4a-4d2c-bef1-55f239433a3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-lg.font-semibold.text-gray-900.pb-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='testi']/div/figure/blockquote/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>e7064e55-c097-4aaf-a125-3217ae1355fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg font-semibold text-gray-900 pb-5</value>
+      <webElementGuid>b2084273-e3bf-4f02-b813-7d8b9372e4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&quot;We're loving it. This is simply unbelievable! I like it more and more each day because it makes my life a lot easier.&quot;</value>
+      <webElementGuid>b6dd436f-fa84-4c3a-bb12-a5306de8c188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testi&quot;)/div[@class=&quot;px-96 pb-16&quot;]/figure[@class=&quot;flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 rounded-lg md:border-r shadow-xl&quot;]/blockquote[@class=&quot;max-w-2xl mx-auto text-gray-500&quot;]/h3[@class=&quot;text-lg font-semibold text-gray-900 pb-5&quot;]</value>
+      <webElementGuid>04739aa1-24a7-44e7-8f79-2b96c6766b43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='testi']/div/figure/blockquote/h3</value>
+      <webElementGuid>35d6de8d-a421-44c3-b7a0-470ee4bb553d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What do they say about our app?'])[1]/following::h3[1]</value>
+      <webElementGuid>adaa736a-e487-4dac-97a2-54de5d921e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark Lodge'])[1]/preceding::h3[1]</value>
+      <webElementGuid>e1e16463-eb17-438c-b6aa-41011527c240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Director, Next Big Thing'])[1]/preceding::h3[1]</value>
+      <webElementGuid>8950bcb2-e714-4ba0-820e-8a0507b3930b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>6a944d67-6fdd-4361-af5b-7e991a2cbbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = concat(&quot;&quot;We&quot; , &quot;'&quot; , &quot;re loving it. This is simply unbelievable! I like it more and more each day because it makes my life a lot easier.&quot;&quot;) or . = concat(&quot;&quot;We&quot; , &quot;'&quot; , &quot;re loving it. This is simply unbelievable! I like it more and more each day because it makes my life a lot easier.&quot;&quot;))]</value>
+      <webElementGuid>1c58cb60-ecc7-4f31-90f2-00d63b041b7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

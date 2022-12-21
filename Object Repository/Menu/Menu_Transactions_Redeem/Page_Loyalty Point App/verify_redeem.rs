@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_redeem</name>
+   <tag></tag>
+   <elementGuidId>1070ab41-79c1-4d0d-a1cf-08874f8cf930</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-3xl.font-bold.mb-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>36029ebc-2f6e-4a32-90ec-9094689515c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-3xl font-bold mb-5</value>
+      <webElementGuid>a948b0bf-faed-4eca-83a8-d22f2e55d6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Redeem Transactions</value>
+      <webElementGuid>9912cf62-cae4-4098-aeda-e79396dc689f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex row&quot;]/div[@class=&quot;flex flex-col w-4/5&quot;]/div[@class=&quot;mx-auto pt-5 mt-3&quot;]/p[@class=&quot;text-3xl font-bold mb-5&quot;]</value>
+      <webElementGuid>a9b6d73b-c8a8-4534-a107-68ceec8cd3a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/p</value>
+      <webElementGuid>f201a29e-d832-473b-aadc-6966efcf1ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/following::p[1]</value>
+      <webElementGuid>c9c8b84a-065d-4a78-8dfc-004579018855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[2]</value>
+      <webElementGuid>1f651ebc-3423-4bb7-a507-768223643f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::p[1]</value>
+      <webElementGuid>5b9bca6f-24ab-4c99-8240-e6aaca6b17b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::p[1]</value>
+      <webElementGuid>e0336ebd-1fac-48ae-8c10-7baa3f3bad42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Redeem Transactions']/parent::*</value>
+      <webElementGuid>b9bea210-adea-4981-99da-acf9fc740c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>e967615f-e354-4db5-8664-9bcc27f93c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Redeem Transactions' or . = 'Redeem Transactions')]</value>
+      <webElementGuid>43f4b75b-5552-4cd5-8e5f-27cfdacfcf3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

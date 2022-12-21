@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>instagram_button</name>
+   <tag></tag>
+   <elementGuidId>e495b2b1-a532-4dbd-948d-27068f486775</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ce355f0c-852c-462d-9083-06087dff2d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white text-lightBlue-400 hover:bg-[#9CC29B] shadow-xl font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2</value>
+      <webElementGuid>9dea69b4-bdc6-4f60-a26a-d257d8b7fcea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b2517bc-d001-4398-b733-684acccf5280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;mx-auto px-4&quot;]/div[@class=&quot;flex flex-wrap text-left lg:text-left justify-between pl-8&quot;]/div[@class=&quot;lg:w-4/12&quot;]/div[@class=&quot;mt-6 lg:mb-0 mb-6&quot;]/a[1]/button[@class=&quot;bg-white text-lightBlue-400 hover:bg-[#9CC29B] shadow-xl font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2&quot;]</value>
+      <webElementGuid>07148b9b-a197-479d-9320-7309a49f5883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>dc92e709-328d-4b75-a56f-8a6b10948aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/div/div/div/a/button</value>
+      <webElementGuid>feeb801e-b63f-4259-8f32-8f61f46c4f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Director, Next Big Thing'])[1]/following::button[1]</value>
+      <webElementGuid>bb9200cf-5567-44a4-9efb-5ba1298c5bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Page'])[1]/preceding::button[4]</value>
+      <webElementGuid>1ef2bcf0-af51-4f3d-9fb5-3aa66b1f5ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::button[4]</value>
+      <webElementGuid>61fdd528-e283-46fc-8853-1a6bfbe95818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>0dd52890-3dc5-4410-b3ce-d649215f355a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>afdcd323-bee6-4d9b-a4a7-93b707c422ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

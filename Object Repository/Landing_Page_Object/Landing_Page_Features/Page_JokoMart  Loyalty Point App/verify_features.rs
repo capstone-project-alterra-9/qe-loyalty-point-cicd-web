@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_features</name>
+   <tag></tag>
+   <elementGuidId>4ad24fc4-c7c0-47ac-9637-8004fdd37823</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='features']/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>37e65276-f45c-47d8-8eb9-90b73d0b8a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold text-5xl p-6 leading-[60px]</value>
+      <webElementGuid>90a3e2d2-3c7f-4d29-a459-9ead88a9b2d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy Credit, Data Quota, and other transactionsMake product purchases easily on JokoMart, and earn points from every purchase you make to redeem rewards.</value>
+      <webElementGuid>d410f7a6-d76d-4b87-88a1-5fbb7f6dc99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;features&quot;)/div[@class=&quot;flex justify-between items-center gap-44&quot;]/h1[@class=&quot;font-bold text-5xl p-6 leading-[60px]&quot;]</value>
+      <webElementGuid>856a0a00-9b9b-495b-b6da-4f9b54f182a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='features']/div/h1</value>
+      <webElementGuid>c555ee84-75f5-4a0d-ac55-7b8a4e181e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Features'])[1]/following::h1[1]</value>
+      <webElementGuid>d8621b0c-d922-4f94-b59d-15ae44854adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How it Works'])[1]/following::h1[2]</value>
+      <webElementGuid>1fd70e5d-17a9-4345-bde4-417671f84990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy Credit, Data Quota, and other transactions']/parent::*</value>
+      <webElementGuid>f2eb7f84-3fec-43e7-a9cc-859b8403d99b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/h1</value>
+      <webElementGuid>c9533592-88d3-44fa-8275-df347659809d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Buy Credit, Data Quota, and other transactionsMake product purchases easily on JokoMart, and earn points from every purchase you make to redeem rewards.' or . = 'Buy Credit, Data Quota, and other transactionsMake product purchases easily on JokoMart, and earn points from every purchase you make to redeem rewards.')]</value>
+      <webElementGuid>c4ef04f8-3bb7-4570-a9cb-50bcca61a954</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

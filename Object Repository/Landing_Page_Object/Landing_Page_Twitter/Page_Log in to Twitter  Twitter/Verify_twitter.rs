@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_twitter</name>
+   <tag></tag>
+   <elementGuidId>6bcba473-96f3-4251-bc09-a5e417286dd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='modal-header']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0 > span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6ca7bc35-79f0-4352-b5f4-b306264833fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0</value>
+      <webElementGuid>2172024d-0f6f-41f0-bdda-b118dc561ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in to Twitter</value>
+      <webElementGuid>69f30ce2-c074-4a7b-a04d-351b21ff8b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-header&quot;)/span[@class=&quot;css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0&quot;]/span[@class=&quot;css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0&quot;]</value>
+      <webElementGuid>9b06842a-2a84-4d11-a6e1-09ae56cce0d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='modal-header']/span/span</value>
+      <webElementGuid>b1f663df-e677-4f0a-9928-55cb0b66682a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with Apple'])[1]/preceding::span[1]</value>
+      <webElementGuid>6db9a539-0c42-4eff-b53d-cd5b88315692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::span[3]</value>
+      <webElementGuid>460f7402-6dba-4f53-a05c-74376ccb80b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in to Twitter']/parent::*</value>
+      <webElementGuid>1df90f9c-5da7-40f9-8411-3485f1f953fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>d2763bde-d9d5-4e27-9e97-c03716d03392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in to Twitter' or . = 'Sign in to Twitter')]</value>
+      <webElementGuid>5bd64c34-0f68-4e16-bfc9-d637fc22a76c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

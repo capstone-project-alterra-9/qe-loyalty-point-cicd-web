@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_dashboard</name>
+   <tag></tag>
+   <elementGuidId>3fb7f889-b7c3-4351-a835-af4692f671d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fw-bold.text-3xl.font-bold.mb-5.pl-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0841f3c8-20ed-454d-bdcf-63f248585801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-bold text-3xl font-bold mb-5 pl-5</value>
+      <webElementGuid>bd5669c6-23b2-4dfa-a8c3-95f2dcd22413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat Datang Di JokoMart Management System</value>
+      <webElementGuid>e532d6d6-6493-4330-a007-840c3e18785c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex row&quot;]/div[@class=&quot;flex flex-col w-4/5&quot;]/div[@class=&quot;mx-auto px-0&quot;]/div[@class=&quot;pt-5 mt-3&quot;]/p[@class=&quot;fw-bold text-3xl font-bold mb-5 pl-5&quot;]</value>
+      <webElementGuid>0269c198-436a-4cbc-bef1-6d70448f34bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/p</value>
+      <webElementGuid>7d25ef8f-4d7e-46e8-b5b3-f2c42bb0ab67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/following::p[1]</value>
+      <webElementGuid>449d5780-bc5c-4967-8233-70ab7c5054f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[2]</value>
+      <webElementGuid>c6b5a91f-a2dd-4ac0-89e4-4aa7aa3e0a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Application'])[1]/preceding::p[1]</value>
+      <webElementGuid>aad277ae-9632-4160-8046-e5988685a4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Application'])[2]/preceding::p[1]</value>
+      <webElementGuid>1ef2b6aa-8d14-4e94-bdee-83c9c4fe2e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selamat Datang Di JokoMart Management System']/parent::*</value>
+      <webElementGuid>e9d4d3b3-83eb-4592-a34d-8fc5f507975a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>988e5738-b35b-4ec8-9ea1-afb7122fc34b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Selamat Datang Di JokoMart Management System' or . = 'Selamat Datang Di JokoMart Management System')]</value>
+      <webElementGuid>d1894a68-757b-4599-90d8-d9cb65717edd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

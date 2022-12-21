@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_App Store</name>
+   <tag></tag>
+   <elementGuidId>c9989a61-ab12-44be-a772-52d844bb703b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='ac-localnav']/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ac-ln-title > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2dbd8952-84ec-4268-a9a1-3093fd9136ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/id/app-store/</value>
+      <webElementGuid>29686262-8a8e-42e9-8406-ce0d8edd028c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-analytics-title</name>
+      <type>Main</type>
+      <value>product index</value>
+      <webElementGuid>05d1e07a-9438-409e-8082-8a20d2d2bd19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focus-method</name>
+      <type>Main</type>
+      <value>mouse</value>
+      <webElementGuid>09e1431c-08bd-4c43-9bb4-dbe021c3817c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> App Store </value>
+      <webElementGuid>3991f1af-85f6-4297-bfda-9ed0aebfc350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ac-localnav&quot;)/div[@class=&quot;ac-ln-wrapper&quot;]/div[@class=&quot;ac-ln-content&quot;]/div[@class=&quot;ac-ln-title&quot;]/a[1]</value>
+      <webElementGuid>e823a7bc-2a67-4ed2-a720-1c9f2b477177</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='ac-localnav']/div/div[2]/div/a</value>
+      <webElementGuid>085208d4-41e6-44c6-8007-4d82e3d5c862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'App Store')]</value>
+      <webElementGuid>acb3f18b-83d0-4acd-9a16-7bfa74f37158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tempat Membeli'])[1]/following::a[2]</value>
+      <webElementGuid>52a3c90f-c604-4cf5-8dfa-679d98770723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dukungan'])[1]/following::a[3]</value>
+      <webElementGuid>3a377658-541d-4c8a-9053-c56bb0396691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nav Lokal Buka Menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d6b9492-4a40-457e-a03d-6c708f8b8057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nav Lokal Tutup Menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>ea58d6a8-ebbe-4bd8-b33f-c893d550279e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='App Store']/parent::*</value>
+      <webElementGuid>db4f4d93-ebd9-4458-8e26-13ca9d454992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/id/app-store/')]</value>
+      <webElementGuid>e30b97e4-f170-4ead-a0e6-6083dcda2af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>aaf7eeef-de31-40f1-9ba5-c40d4fd8f693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/id/app-store/' and (text() = ' App Store ' or . = ' App Store ')]</value>
+      <webElementGuid>8710600f-1cc3-49f0-9ed1-39ea19c1e5a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

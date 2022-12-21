@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>facebook_button</name>
+   <tag></tag>
+   <elementGuidId>f5a3a480-0e3b-4739-acde-080782cdac9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;footer&quot;]/div/div[1]/div[1]/div[1]/a[3]/button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;footer&quot;]/div/div[1]/div[1]/div[1]/a[3]/button</value>
+      <webElementGuid>22ce9c28-d5f2-4515-954b-c2c82d702556</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
