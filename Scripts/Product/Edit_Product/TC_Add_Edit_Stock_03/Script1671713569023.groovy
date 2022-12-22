@@ -49,7 +49,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Product_Edit_Stock/P
 
 WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_product_name'), 'halo halo')
 
-WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_description'), 'buattest')
+WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_description'), '')
 
 WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_price'), '12000')
 
@@ -58,6 +58,8 @@ WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty 
 WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_image'), '1234')
 
 WebUI.click(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/button_Update'))
+
+WebUI.verifyElementPresent(findTestObject('Product_Object/Product_Add_User_1/error_message'), 0)
 
 WebUI.closeBrowser()
 

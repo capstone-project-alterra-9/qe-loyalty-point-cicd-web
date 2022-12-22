@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_edit</name>
+   <tag></tag>
+   <elementGuidId>7d6fbc05-38fa-45b1-8a6b-72c0839bfbe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='editProductModal']/div/form/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>63680c64-f8c9-47eb-9ed0-19ce2842ba92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl font-semibold text-white </value>
+      <webElementGuid>bcf0a3cc-81a0-45b9-bfe6-c6981d5b4fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Product</value>
+      <webElementGuid>92fd4ea6-b9aa-43ee-a877-61f1f98abbde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editProductModal&quot;)/div[@class=&quot;relative w-full max-w-lg h-full md:h-auto rounded-lg shadow-lg&quot;]/form[@class=&quot;relative bg-white rounded-lg&quot;]/div[@class=&quot;flex p-4 rounded-t-lg border-b  bg-[#566B55] justify-center&quot;]/h3[@class=&quot;text-xl font-semibold text-white&quot;]</value>
+      <webElementGuid>ba2000ed-fdad-412f-a472-14ece4abac8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='editProductModal']/div/form/div/h3</value>
+      <webElementGuid>e333481f-bcf3-44e1-93ec-228f4ab2e920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dingge tes 29'])[1]/following::h3[1]</value>
+      <webElementGuid>8a01c840-db62-4416-bfec-14ed762bf08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test lur 29'])[1]/following::h3[1]</value>
+      <webElementGuid>98871611-5da1-448c-acaa-b49b7e220ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/preceding::h3[1]</value>
+      <webElementGuid>662efac0-0be1-40ad-80a7-020040efaba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Name'])[2]/preceding::h3[1]</value>
+      <webElementGuid>e17c5936-e013-4e9d-a07e-3ac67a4e31a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Product']/parent::*</value>
+      <webElementGuid>708f4f3d-dcb1-498f-98dc-09544ec2ec83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>0d3a4650-8c55-4186-ad78-b0bec14078e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Edit Product' or . = 'Edit Product')]</value>
+      <webElementGuid>c75946ef-52ee-4fcd-bb40-5a27787aa2d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

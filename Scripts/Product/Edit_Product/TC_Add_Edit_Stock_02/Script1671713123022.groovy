@@ -47,17 +47,19 @@ WebUI.verifyElementText(findTestObject('Object Repository/Product_Edit_Stock/Pag
 WebUI.selectOptionByValue(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/option_category'), 
     'credits', true)
 
-WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_product_name'), 'halo halo')
+WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_product_name'), '')
 
-WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_description'), 'buattest')
+WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_description'), '')
 
-WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_price'), '12000')
+WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_price'), '')
 
-WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_stock'), '12')
+WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_stock'), '')
 
-WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_image'), '1234')
+WebUI.setText(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/input_image'), '')
 
 WebUI.click(findTestObject('Object Repository/Product_Edit_Stock/Page_Loyalty Point App/button_Update'))
+
+WebUI.verifyElementPresent(findTestObject('Product_Object/Product_Add_User_1/error_message'), 0)
 
 WebUI.closeBrowser()
 
